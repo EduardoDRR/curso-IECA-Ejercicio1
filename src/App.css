@@ -1,0 +1,58 @@
+.text {
+  color: green;
+  font-size: 1.5rem;
+}
+
+.color{
+  color: yellow;
+}
+
+.loader{
+  color: blue;
+  font-size: 3rem;
+}
+
+.tittle{
+  justify-content: center;
+  text-align: center;
+  margin-left: 50%;
+}
+
+.button{
+  justify-content: center;
+  text-align: center;
+  text-align: center;
+  margin-left: 50%;
+  display: flex;
+  border-radius: 5px;
+  color: black;
+  background-color: aqua;
+}
+
+.citas{
+  padding: 2em;
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.card {
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  margin-top: 200px;
+  margin-left: 100px;
+  height: 100px;
+  max-width: 1000px;
+}
+
+.error{
+  color: red;
+}
+
+* {
+  background-color: black;
+}
